@@ -1,7 +1,7 @@
 ## Game-of-Life
 Terminal simulation of John Conway's Game of Life, with five presets, and custom inputs.
 
-This programme is made to simply observe simulations of [John Conway's Game of Life]([url](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)). *Cell.java* and *Board.java* are supplementary classes to the main class *GameOfLife.java*. 
+This programme is made to simply observe simulations of [John Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). *Cell.java* and *Board.java* are supplementary classes to the main class *GameOfLife.java*. 
 
 # How to run:
 
